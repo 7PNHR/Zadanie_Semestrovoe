@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_Semestrovoe", "Zadanie_Semestrovoe\Zadanie_Semestrovoe.csproj", "{593728F8-A791-4207-AF49-A75B2F1B0BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593728F8-A791-4207-AF49-A75B2F1B0BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593728F8-A791-4207-AF49-A75B2F1B0BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593728F8-A791-4207-AF49-A75B2F1B0BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593728F8-A791-4207-AF49-A75B2F1B0BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

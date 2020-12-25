@@ -1,0 +1,13 @@
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.exe
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.deps.json
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.runtimeconfig.json
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.runtimeconfig.dev.json
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.dll
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\bin\Debug\netcoreapp3.1\Zadanie_Semestrovoe.pdb
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.csprojAssemblyReference.cache
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.AssemblyInfoInputs.cache
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.AssemblyInfo.cs
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.csproj.CoreCompileInputs.cache
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.dll
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.pdb
+C:\Users\LPNHR\RiderProjects\Zadanie_Semestrovoe\Zadanie_Semestrovoe\obj\Debug\netcoreapp3.1\Zadanie_Semestrovoe.genruntimeconfig.cache
